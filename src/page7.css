@@ -1,0 +1,23 @@
+.bodycolor{
+    background-color: #ffffff;
+}
+.textBlog{
+    float: right;
+    /* position: relative;
+    right: 50px; */
+}
+/* .imageBlog{
+    position: relative;
+    left: 15px;
+} */
+.blogColor{
+    background-color: #eee5ff;
+    border-radius: 20px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    box-shadow: 0.5px 0px 20px 1px grey;
+}
+
+.headingtext{
+    color: rgb(92,39,192);
+}

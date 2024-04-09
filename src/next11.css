@@ -1,0 +1,25 @@
+.bodycol{
+    background-color: #fdfdfd;
+}
+.butt{
+    background-color: rgb(92,39,192);
+    color: white;
+    font-size: 2rem;
+    border-radius: 15px;
+    border: 2px solid rgb(92,39,192);
+}
+.butt:hover{
+    background-color:white;
+    color: rgb(92,39,192);
+    font-size: 2rem;
+    border: 2px solid rgb(92,39,192);
+    border-radius: 15px;
+}
+.heading1{
+    color: rgb(92,39,192);
+}
+.para{
+    font-size: 1.3rem;
+    text-align: start;
+    font-weight: 400;
+}

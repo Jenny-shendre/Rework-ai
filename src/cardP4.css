@@ -1,0 +1,30 @@
+.card-bg-2{
+   background-color: #eee5ff ;
+}
+.card-bg1-3{
+    background-color:#ffffff;
+}
+.GetStarted-button{
+    border-color: rgb(92,39,192);
+    color: rgb(92,39,192) ;
+    background-color: white;
+    border: 2px solid rgb(92,39,192);
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: 400;}
+    .GetStarted-button:hover{
+        background-color:rgb(92,39,192) ;
+        color: white;
+    }
+.card-Bg{
+    background-color: #f7f7f7 ;
+}
+.text-head{
+    color:rgb(92,39,192) ;
+}
+.img-position-1-3{
+    float:right;
+}
+.para{
+    font-size: 1rem;
+}

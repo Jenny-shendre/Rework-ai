@@ -1,0 +1,70 @@
+.body-bg{
+    background-color: #ffffff;
+}
+.heading{
+    color: rgb(92,39,192);
+}
+.Book-A-Demo-button{
+    border-color: rgb(92,39,192);
+    color:  rgb(92,39,192);
+    background-color: white;
+    border: 2px solid rgb(92,39,192);
+    border-radius: 20px;
+    font-size: 24px;
+    font-weight: 400;
+} 
+.book-Demo-Butt{
+    text-align: center;
+}
+.title-color1-3{
+    color: rgb(92,39,192) ;
+    text-align: center;
+    font-size: 1.5rem;
+    font-size: 200;
+    
+} 
+.title-subtitle1-3{
+    color: rgb(92,39,192);
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+}
+.title1-3{
+    text-align: center;
+}
+.card2{
+    background-color:rgb(92,39,192) ;
+}
+.card-2colo{
+    color: white;
+}
+.subtitle-2{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+}
+.getStartedButt-1-3{
+    background-color:rgb(92,39,192);
+    color: white;
+    border: 2px solid rgb(92,39,192);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    }
+ .getStartedButt-1-3:hover{
+    background-color: white;
+    color: rgb(92,39,192);
+ }   
+.getStartedButt-2{
+    background-color:white;
+    color: rgb(92,39,192);
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.getStartedButt-2:hover{
+    background-color:rgb(92,39,192);
+    color: white;
+
+}

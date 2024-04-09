@@ -1,0 +1,87 @@
+.main-logo{
+  height: 44px;
+  width: 145px;
+}
+
+.nav-button{
+  border-color: rgb(92,39,192);
+  color: rgb(92,39,192);
+  border: 2px solid rgb(92,39,192);
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+
+
+
+}
+.nav-button:hover{
+  background-color: rgb(92,39,192);
+  color: white;
+}
+.nav-button:nth-child(3){
+  background-color: rgb(92,39,192);
+  color: white;
+  
+}
+.nav-button:nth-child(3):hover{
+  color: rgb(92,39,192);
+  background-color: #f6f6f6;
+  box-shadow: 4px 4px 4px 4px rgb(92,39,192);
+  
+}
+
+.nav-text{
+  color:#8e8e8e;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+}
+.nav-text:hover{
+  color: rgb(92,39,192);
+  text-decoration: underline;
+}
+.h1-bold-text{
+  color: rgb(92,39,192) ;
+  font-size: 50px;
+  font-weight: 700;
+}
+.h1-bold{
+  color: rgb(92,39,192);
+
+}
+.p-text{
+    color: #292727;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.Book-A-Demo-button{
+  border-color: rgb(92,39,192);
+  color: white;
+  background-color: rgb(92,39,192);
+  border: 2px solid rgb(92,39,192);
+  border-radius: 20px;
+  font-size: 24px;
+  font-weight: 400;
+  
+ 
+}
+.Book-A-Demo-button:hover{
+  background-color: #f6f6f6;
+  color: rgb(92,39,192);
+  box-shadow: 4px 4px 4px 4px rgb(92,39,192);
+}
+.image-label{
+  position: absolute;
+  width: 200px;
+  height: 94px;
+  margin-top: -40px;
+  margin-left: -5px;
+  background-color: rgb(92,39,192);
+  border-radius: 10px;
+  
+}
+.image-label:nth-child(2){
+  margin-top: -150px;
+  margin-left: -180px;
+  z-index: -1;
+}

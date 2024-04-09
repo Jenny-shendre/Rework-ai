@@ -1,0 +1,55 @@
+/* .body-bgc{
+  background-color: #f7f7f7;
+}
+.nav-button{
+  border-color: rgb(92,39,192);
+  color: white;
+  background-color: rgb(92,39,192);
+  border: px solid rgb(92,39,192);
+  border-radius: 15px;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.nav-button:hover{
+  background-color:white ;
+  color: rgb(92,39,192);
+}
+.heading1{
+  color: rgb(92,39,192);
+}
+.para{
+  font-size: 20px;
+  
+}
+.point{
+  font-size: 20px;
+  
+} */
+.bigbutt{
+  color:white;
+  background-color: rgb(92,39,192);
+  border-radius: 20px;
+  border: 2px solid rgb(92,39,192);
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+.bigbutt:hover{
+  color:rgb(92,39,192);
+  background-color: white;
+  border-radius: 20px;
+  border: 2px solid rgb(92,39,192);
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+.textp{
+  font-size: 1.2rem;
+}
+.headingtxt{
+  color: rgb(92,39,192);
+}
+.button1{
+  background-color: rgb(92,39,192);
+  color: white;
+  border-radius: 0.5rem;
+  font-weight: 500;
+}

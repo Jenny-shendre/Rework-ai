@@ -1,0 +1,20 @@
+.cards-bg{
+    background-color: #fdfdfd;
+}
+.cards-text{
+    color:rgb(92,39,192) ;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+.para-text{
+    text-align: left;
+}
+.text-head{
+    color:rgb(92,39,192);
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.text-cont{
+    word-spacing: 4px;
+    font-weight: 400;
+}

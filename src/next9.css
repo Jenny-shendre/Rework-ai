@@ -1,0 +1,22 @@
+.bodycol{
+    background-color: #ffffff;
+}
+.heading{
+    color: rgb(92,34,192);
+    text-align: center;
+}
+.cardBorder{
+    border-radius: 15px;
+}
+.cardBorderimage{
+    border-radius: 15px 15px 0px 0px;
+}
+.cardtext{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.cardsubtitle{
+    color: #9f968e;
+    font-weight: 500;
+    font-size: 1.2rem;
+}

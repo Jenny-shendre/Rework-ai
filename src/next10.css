@@ -1,0 +1,21 @@
+
+.click{
+    width: 100%;
+    border-style:none ;
+    text-align: start;
+    background-color: #f6f6f6;
+}
+.bg-click{
+    background-color: #f6f6f6;
+}
+.border-col{
+    border: 3px solid rgb(92,31,192);
+    border-radius: 0.7rem;
+}
+.texthead{
+    color: rgb(92,31,192);
+}
+.textpara{
+    font-size:1.2rem;
+    font-weight: 400;
+}
